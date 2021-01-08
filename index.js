@@ -8,12 +8,12 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾YANZZBOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👾YANZZ-BOT👾'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/_zxuan54'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281803522862'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://youtu.be/YANZZOFFICIAL'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/-'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://youtu.be/YanzzOfficial'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");

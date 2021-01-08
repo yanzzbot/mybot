@@ -4,12 +4,12 @@
 * jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!! DI UBAH AUTO EROR GAN
 */
-const XPTN = 'BANGLENT'; // JANGAN DI UBAH NNTI EROR
-const instagram = 'https://instagram.com/maslent11'; // JANGAN DI UBAH NNTI EROR
-const nomer = 'https://Wa.me/+628165466368'; // JANGAN DI UBAH NANTI EROR
+const XPTN = 🐼'YanzzBotQu🐼'; // JANGAN DI UBAH NNTI EROR
+const instagram = 'https://instagram.com/_zxuan54'; // JANGAN DI UBAH NNTI EROR
+const nomer = 'https://Wa.me/+6281803522862'; // JANGAN DI UBAH NANTI EROR
 const aktif = 'Sesuai Selera'; // DI GANTI AUTO EROR
-const groupwa = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // DI GANTI AUTO EROR
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // DI GANTI AUTO EROR
+const groupwa = '-'; // DI GANTI AUTO EROR
+const youtube = 'https://www.youtube.com/channel/YanzzOfficial'; // DI GANTI AUTO EROR
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");

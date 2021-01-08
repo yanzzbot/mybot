@@ -1114,7 +1114,7 @@ else if (text == '.help'){
 conn.sendMessage(id, ' _TERIMAKASIH BANYAK TELAH MENGGUNAKAN FITUR INI...UNTUK PEMBUATAN BOT INI CEK CHANEL MASLENT YT TINGGALKAN SUBSCRIBE YHA' ,MessageType.text);
 }
 else if (text == '.tools1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾XP-TNNBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@maslent11' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾YanzzBotQu👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@maslent11' ,MessageType.text);
 }
 else if (text == '.menu'){
 conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾XP-TNNBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@maslent11' ,MessageType.text);

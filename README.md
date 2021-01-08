@@ -58,8 +58,8 @@ kalo lu belum punya apk termux, download di playstore
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/yanzzbot/mybot
+> cd mybot
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -124,9 +124,9 @@ Github ini dan support😅
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw)
-* [`Instagram Admin`](https://instagram.com/mragung23)
-* [`WhatsApp Admin `](https://wa.me/+6289655478810)
+* [`Youtube Admin`](https://www.youtube.com/channel/YanzzOfficial)
+* [`Instagram Admin`](https://instagram.com/_zxuan54)
+* [`WhatsApp Admin `](https://wa.me/+6281803522862)
 
 ##THANKS TO MY FRENDS
 * [`caliph71 Github`](https://github.com/Caliph71)

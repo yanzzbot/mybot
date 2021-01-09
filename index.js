@@ -145,10 +145,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner Yanzz Official wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner Yanzz Official wa.me/+6281803522862* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator BANGLENT wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator Yanzz Official wa.me/+6281803522862* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);

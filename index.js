@@ -145,7 +145,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner BANGLENT wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner Yanzz Official wa.me/+628165466368* ' ,MessageType.text);
 }
 else if (text == '#creator'){
 conn.sendMessage(id, ' *Creator BANGLENT wa.me/+628165466368* ' ,MessageType.text);

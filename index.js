@@ -8,7 +8,7 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾YANZZ-BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '🤖OCHOBOT🚶'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/_zxuan54'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281803522862'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
